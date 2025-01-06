@@ -6,6 +6,11 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		972E1F602D26C2AD0020483E /* 20250102.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 20250102.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		97A3D2232D2BFAA1009F60CC /* 20250106.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 20250106.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		97781D132D23D3A000CDA6B5 = {
 			isa = PBXGroup;
@@ -17,6 +22,8 @@
 		97781D1A2D23D44700CDA6B5 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				972E1F602D26C2AD0020483E /* 20250102.playground */,
+				97A3D2232D2BFAA1009F60CC /* 20250106.playground */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
